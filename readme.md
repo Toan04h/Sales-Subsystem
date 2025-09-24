@@ -1,6 +1,3 @@
-#Project
-##CSCE 156H
-
 # 📦 Sales Subsystem
 
 The **Sales Subsystem** is a standalone Java application developed as part of a Capstone course project.  
@@ -28,12 +25,12 @@ The project applies Object-Oriented Programming (OOP) principles to keep the des
 ---
 
 ## 📂 Project Structure
-Sales-Subsystem/
-├── src/ # Source code
-├── bin/ # Compiled classes (ignored in git)
-├── .classpath # Eclipse config
-├── .project # Eclipse config
-└── README.md # This file
+    Sales-Subsystem/
+    ├── src/               # Source code
+    ├── bin/               # Compiled classes (ignored in git)
+    ├── .classpath         # Eclipse config
+    ├── .project           # Eclipse config
+    └── README.md          # This file
 
 
 ---
