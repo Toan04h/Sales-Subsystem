@@ -3,26 +3,31 @@
 
 # 📦 Sales Subsystem
 
-A Java application built in Eclipse as part of the Freshman project. This subsystem handles core sales functionality, including product records, transactions, and integration with the larger system.
+The **Sales Subsystem** is a standalone Java application developed as part of a Capstone course project.  
+It focuses on managing sales records, processing transactions, and interacting with a database using SQL.  
+The project applies Object-Oriented Programming (OOP) principles to keep the design modular and easy to maintain.
 
 ---
 
 ## 🚀 Features
-- Manage sales records and transactions  
-- Store and retrieve product information  
-- Modular design for integration with other subsystems  
+- Record, update, and manage product sales  
+- Process and track customer transactions  
+- Store and query data using SQL  
+- Built with Object-Oriented Programming (OOP) principles  
 
 ---
 
 ## 🛠 Tech Stack
-- **Language:** Java  
-- **IDE:** Eclipse  
+- **Language:** Java 17  
+- **Paradigm:** Object-Oriented Programming (OOP)  
+- **Database:** SQL (configured within the project)  
+- **IDE:** Eclipse IDE  
+- **Build Tool:** None (plain Java project)  
 - **Version Control:** Git + GitHub  
 
 ---
 
 ## 📂 Project Structure
-'''bash
 Sales-Subsystem/
 ├── src/ # Source code
 ├── bin/ # Compiled classes (ignored in git)
@@ -30,7 +35,7 @@ Sales-Subsystem/
 ├── .project # Eclipse config
 └── README.md # This file
 
-'''
+
 ---
 
 ## ⚙️ Setup & Run
