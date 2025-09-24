@@ -1,0 +1,97 @@
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #  Store      Customer                       Num Items          Tax       Total
+s001       10f50d    Genevieve,    Wilkins           5		$    160.21 $   2974.40
+s002       10f50d      Arsenio,     Prince           1		$      0.00 $     32.50
+s003       ulhd4k      Arsenio,     Prince           0		$      0.00 $      0.00
++----------------------------------------------------------------------------------------+
+                                                     6		$    160.21 $   3006.90
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                        # Sales    Grand Total  
+h4356d     Prince,    Arsenio             0	     $      0.00
+ulhd4k      James,   Marshall             1	     $      0.00
+10f50d     Malone,      Nyssa             2	     $   3006.90
+6o5ko9     Cortez,     Rashad             0	     $      0.00
+1d0123     Newton,       Ross             0	     $      0.00
++----------------------------------------------------------------+
+                                          3	     $   3006.90
+
+Sale    #s001
+Store   #10f50d
+Date     2023-12-01
+Customer:
+Genevieve, Wilkins (65AFEF8C-A14E-7DE6-D1C9-650B93810B6A)
+         [eget@outlook.org]
+         Ap #503-814 Quis Av.
+         Erlangen OH 94836
+
+Sales Person:
+Wynter, Huff (4BC1312C-29AA-B5BB-A3C9-488CF9F17D4D)
+         [dapibus@google.net, bgrof2@unl.edu]
+         Ap #514-4741 Interdum St.
+         Bronnoysund TX 55-84
+
+Items (5)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+iPhone 15 Pro Max (e001)
+                                                             $     97.50 $   1499.99
+Samsung Galaxy A23S (e002) - Lease for 24 months
+                                                             $      0.00 $     81.25
+Battery Replacement (s002) - Served by Nina, Pate
+      1.50 hours @ $209.99/hour
+                                                             $     11.02 $    314.99
+5G Premium (p001) - Data
+    200.00 GB @ 3.99/GB
+                                                             $     43.89 $    798.00
+Unlimited Daily (p003) - Voice 714-855-7572
+       120 days @ 29.99/ 30 days
+                                                             $      7.80 $    119.96
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $    160.21 $   2814.19
+                                                 Grand Total         	 $   2974.40
+Sale    #s002
+Store   #10f50d
+Date     2023-11-03
+Customer:
+Arsenio, Prince (8B89D7E1-42F8-EE29-9BC6-CC4ACA606610)
+         [quam@outlook.ca, iking@ooo.com, spetrikov@unl.edu]
+         398-6325 Proin Ave
+         Manokwari CA 57836
+
+Sales Person:
+Nina, Pate (84B49762-27D9-D403-A6C1-B44A88374D7E)
+         [sed@outlook.edu]
+         5043 Aliquam Street
+         Viranşehir NE 8980-4786
+
+Items (1)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Samsung Galaxy A23S (e002) - Lease for 60 months
+                                                             $      0.00 $     32.50
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $      0.00 $     32.50
+                                                 Grand Total         	 $     32.50
+Sale    #s003
+Store   #ulhd4k
+Date     2023-11-15
+Customer:
+Arsenio, Prince (8B89D7E1-42F8-EE29-9BC6-CC4ACA606610)
+         [quam@outlook.ca, iking@ooo.com, spetrikov@unl.edu]
+         398-6325 Proin Ave
+         Manokwari CA 57836
+
+Sales Person:
+Nina, Pate (84B49762-27D9-D403-A6C1-B44A88374D7E)
+         [sed@outlook.edu]
+         5043 Aliquam Street
+         Viranşehir NE 8980-4786
+
+Items (0)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                   Subtotals $      0.00 $      0.00
+                                                 Grand Total         	 $      0.00

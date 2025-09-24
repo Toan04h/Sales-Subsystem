@@ -1,0 +1,126 @@
+<list>
+  <store>
+    <storeCode>1d0123</storeCode>
+    <manager>
+      <personUuid>D632A927-2676-32BD-E927-4337438AE500</personUuid>
+      <firstName>Newton</firstName>
+      <lastName>Ross</lastName>
+      <address>
+        <street>608-722 Massa Road</street>
+        <city>Raufoss</city>
+        <state>CA</state>
+        <zip>84467</zip>
+      </address>
+      <emails>
+        <string>dolor.tempus@yahoo.edu</string>
+      </emails>
+    </manager>
+    <address>
+      <street>9602 Smith Lane</street>
+      <city>Central Islip</city>
+      <state>NY</state>
+      <zip>11722</zip>
+    </address>
+    <sales/>
+  </store>
+  <store>
+    <storeCode>10f50d</storeCode>
+    <manager>
+      <personUuid>1EFDA221-18CE-7341-A6BD-089226D27A89</personUuid>
+      <firstName>Malone</firstName>
+      <lastName>Nyssa</lastName>
+      <address>
+        <street>9934 Ornare</street>
+        <city> Rd.</city>
+        <state>Wiener Neustadt</state>
+        <zip>MN</zip>
+      </address>
+      <emails>
+        <string>55377</string>
+        <string>risus@outlook.ca</string>
+      </emails>
+    </manager>
+    <address>
+      <street>8352 Proctor Avenue</street>
+      <city>Rockledge</city>
+      <state>FL</state>
+      <zip>32955</zip>
+    </address>
+    <sales/>
+  </store>
+  <store>
+    <storeCode>h4356d</storeCode>
+    <manager>
+      <personUuid>8B89D7E1-42F8-EE29-9BC6-CC4ACA606610</personUuid>
+      <firstName>Prince</firstName>
+      <lastName>Arsenio</lastName>
+      <address>
+        <street>398-6325 Proin Ave</street>
+        <city>Manokwari</city>
+        <state>CA</state>
+        <zip>57836</zip>
+      </address>
+      <emails>
+        <string>quam@outlook.ca</string>
+        <string>iking@ooo.com</string>
+        <string>spetrikov@unl.edu</string>
+      </emails>
+    </manager>
+    <address>
+      <street>5 Cypress Court</street>
+      <city>Allen Park</city>
+      <state>MI</state>
+      <zip>48101</zip>
+    </address>
+    <sales/>
+  </store>
+  <store>
+    <storeCode>ulhd4k</storeCode>
+    <manager>
+      <personUuid>F44248C5-6172-4D5A-C697-1725B32F81E0</personUuid>
+      <firstName>James</firstName>
+      <lastName>Marshall</lastName>
+      <address>
+        <street> 9489 Ac</street>
+        <city> Road</city>
+        <state>Paita</state>
+        <zip>CA</zip>
+      </address>
+      <emails>
+        <string>97661-333</string>
+        <string>id@aol.org</string>
+      </emails>
+    </manager>
+    <address>
+      <street>82 Cedarwood Ave</street>
+      <city>Lorain</city>
+      <state>OH</state>
+      <zip>44052</zip>
+    </address>
+    <sales/>
+  </store>
+  <store>
+    <storeCode>6o5ko9</storeCode>
+    <manager>
+      <personUuid>4D34719E-CDE5-A8F3-7BDF-25C242B76290</personUuid>
+      <firstName>Cortez</firstName>
+      <lastName>Rashad</lastName>
+      <address>
+        <street>5722 Sit Rd.</street>
+        <city>Castanhal</city>
+        <state>NY</state>
+        <zip>27153</zip>
+      </address>
+      <emails>
+        <string>montes@google.edu</string>
+      </emails>
+    </manager>
+    <address>
+      <street>97 Valley View Avenue</street>
+      <city>Rolling Meadows</city>
+      <state>IL</state>
+      <zip>60008</zip>
+    </address>
+    <sales/>
+  </store>
+</list>

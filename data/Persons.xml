@@ -1,0 +1,147 @@
+<list>
+  <person>
+    <personUuid>D632A927-2676-32BD-E927-4337438AE500</personUuid>
+    <firstName>Newton</firstName>
+    <lastName>Ross</lastName>
+    <address>
+      <street>608-722 Massa Road</street>
+      <city>Raufoss</city>
+      <state>CA</state>
+      <zip>84467</zip>
+    </address>
+    <emails>
+      <string>dolor.tempus@yahoo.edu</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>33CEC6E4-5895-D123-C42D-86A291B32F7B</personUuid>
+    <firstName>Guy</firstName>
+    <lastName>Lara</lastName>
+    <address>
+      <street>1258 Ut St.</street>
+      <city>Manisa</city>
+      <state>NE</state>
+      <zip>51202</zip>
+    </address>
+    <emails>
+      <string>metus.in@protonmail.com</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>4D34719E-CDE5-A8F3-7BDF-25C242B76290</personUuid>
+    <firstName>Cortez</firstName>
+    <lastName>Rashad</lastName>
+    <address>
+      <street>5722 Sit Rd.</street>
+      <city>Castanhal</city>
+      <state>NY</state>
+      <zip>27153</zip>
+    </address>
+    <emails>
+      <string>montes@google.edu</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>65AFEF8C-A14E-7DE6-D1C9-650B93810B6A</personUuid>
+    <firstName>Wilkins</firstName>
+    <lastName>Genevieve</lastName>
+    <address>
+      <street>Ap #503-814 Quis Av.</street>
+      <city>Erlangen</city>
+      <state>OH</state>
+      <zip>94836</zip>
+    </address>
+    <emails>
+      <string>eget@outlook.org</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>F44248C5-6172-4D5A-C697-1725B32F81E0</personUuid>
+    <firstName>James</firstName>
+    <lastName>Marshall</lastName>
+    <address>
+      <street> 9489 Ac</street>
+      <city> Road</city>
+      <state>Paita</state>
+      <zip>CA</zip>
+    </address>
+    <emails>
+      <string>97661-333</string>
+      <string>id@aol.org</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>4BC1312C-29AA-B5BB-A3C9-488CF9F17D4D</personUuid>
+    <firstName>Huff</firstName>
+    <lastName>Wynter</lastName>
+    <address>
+      <street>Ap #514-4741 Interdum St.</street>
+      <city>Bronnoysund</city>
+      <state>TX</state>
+      <zip>55-84</zip>
+    </address>
+    <emails>
+      <string>dapibus@google.net</string>
+      <string>bgrof2@unl.edu</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>1EFDA221-18CE-7341-A6BD-089226D27A89</personUuid>
+    <firstName>Malone</firstName>
+    <lastName>Nyssa</lastName>
+    <address>
+      <street>9934 Ornare</street>
+      <city> Rd.</city>
+      <state>Wiener Neustadt</state>
+      <zip>MN</zip>
+    </address>
+    <emails>
+      <string>55377</string>
+      <string>risus@outlook.ca</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>474D9694-E5F8-B283-DE50-29385D12CB15</personUuid>
+    <firstName>Velez</firstName>
+    <lastName>Rajah</lastName>
+    <address>
+      <street>933-4895 Rhoncus. Avenue</street>
+      <city>Precenicco</city>
+      <state>NY</state>
+      <zip>50700</zip>
+    </address>
+    <emails>
+      <string>vitae.risus@yahoo.com</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>84B49762-27D9-D403-A6C1-B44A88374D7E</personUuid>
+    <firstName>Pate</firstName>
+    <lastName>Nina</lastName>
+    <address>
+      <street>5043 Aliquam Street</street>
+      <city>Viranşehir</city>
+      <state>NE</state>
+      <zip>8980-4786</zip>
+    </address>
+    <emails>
+      <string>sed@outlook.edu</string>
+    </emails>
+  </person>
+  <person>
+    <personUuid>8B89D7E1-42F8-EE29-9BC6-CC4ACA606610</personUuid>
+    <firstName>Prince</firstName>
+    <lastName>Arsenio</lastName>
+    <address>
+      <street>398-6325 Proin Ave</street>
+      <city>Manokwari</city>
+      <state>CA</state>
+      <zip>57836</zip>
+    </address>
+    <emails>
+      <string>quam@outlook.ca</string>
+      <string>iking@ooo.com</string>
+      <string>spetrikov@unl.edu</string>
+    </emails>
+  </person>
+</list>

@@ -1,0 +1,149 @@
+{
+"persons": 
+[
+  {
+    "personUuid": "D632A927-2676-32BD-E927-4337438AE500",
+    "firstName": "Newton",
+    "lastName": "Ross",
+    "address": {
+      "street": "608-722 Massa Road",
+      "city": "Raufoss",
+      "state": "CA",
+      "zip": "84467"
+    },
+    "emails": [
+      "dolor.tempus@yahoo.edu"
+    ]
+  },
+  {
+    "personUuid": "33CEC6E4-5895-D123-C42D-86A291B32F7B",
+    "firstName": "Guy",
+    "lastName": "Lara",
+    "address": {
+      "street": "1258 Ut St.",
+      "city": "Manisa",
+      "state": "NE",
+      "zip": "51202"
+    },
+    "emails": [
+      "metus.in@protonmail.com"
+    ]
+  },
+  {
+    "personUuid": "4D34719E-CDE5-A8F3-7BDF-25C242B76290",
+    "firstName": "Cortez",
+    "lastName": "Rashad",
+    "address": {
+      "street": "5722 Sit Rd.",
+      "city": "Castanhal",
+      "state": "NY",
+      "zip": "27153"
+    },
+    "emails": [
+      "montes@google.edu"
+    ]
+  },
+  {
+    "personUuid": "65AFEF8C-A14E-7DE6-D1C9-650B93810B6A",
+    "firstName": "Wilkins",
+    "lastName": "Genevieve",
+    "address": {
+      "street": "Ap #503-814 Quis Av.",
+      "city": "Erlangen",
+      "state": "OH",
+      "zip": "94836"
+    },
+    "emails": [
+      "eget@outlook.org"
+    ]
+  },
+  {
+    "personUuid": "F44248C5-6172-4D5A-C697-1725B32F81E0",
+    "firstName": "James",
+    "lastName": "Marshall",
+    "address": {
+      "street": " 9489 Ac",
+      "city": " Road",
+      "state": "Paita",
+      "zip": "CA"
+    },
+    "emails": [
+      "97661-333",
+      "id@aol.org"
+    ]
+  },
+  {
+    "personUuid": "4BC1312C-29AA-B5BB-A3C9-488CF9F17D4D",
+    "firstName": "Huff",
+    "lastName": "Wynter",
+    "address": {
+      "street": "Ap #514-4741 Interdum St.",
+      "city": "Bronnoysund",
+      "state": "TX",
+      "zip": "55-84"
+    },
+    "emails": [
+      "dapibus@google.net",
+      "bgrof2@unl.edu"
+    ]
+  },
+  {
+    "personUuid": "1EFDA221-18CE-7341-A6BD-089226D27A89",
+    "firstName": "Malone",
+    "lastName": "Nyssa",
+    "address": {
+      "street": "9934 Ornare",
+      "city": " Rd.",
+      "state": "Wiener Neustadt",
+      "zip": "MN"
+    },
+    "emails": [
+      "55377",
+      "risus@outlook.ca"
+    ]
+  },
+  {
+    "personUuid": "474D9694-E5F8-B283-DE50-29385D12CB15",
+    "firstName": "Velez",
+    "lastName": "Rajah",
+    "address": {
+      "street": "933-4895 Rhoncus. Avenue",
+      "city": "Precenicco",
+      "state": "NY",
+      "zip": "50700"
+    },
+    "emails": [
+      "vitae.risus@yahoo.com"
+    ]
+  },
+  {
+    "personUuid": "84B49762-27D9-D403-A6C1-B44A88374D7E",
+    "firstName": "Pate",
+    "lastName": "Nina",
+    "address": {
+      "street": "5043 Aliquam Street",
+      "city": "Viranşehir",
+      "state": "NE",
+      "zip": "8980-4786"
+    },
+    "emails": [
+      "sed@outlook.edu"
+    ]
+  },
+  {
+    "personUuid": "8B89D7E1-42F8-EE29-9BC6-CC4ACA606610",
+    "firstName": "Prince",
+    "lastName": "Arsenio",
+    "address": {
+      "street": "398-6325 Proin Ave",
+      "city": "Manokwari",
+      "state": "CA",
+      "zip": "57836"
+    },
+    "emails": [
+      "quam@outlook.ca",
+      "iking@ooo.com",
+      "spetrikov@unl.edu"
+    ]
+  }
+]}

@@ -1,0 +1,128 @@
+{
+"stores": 
+[
+  {
+    "storeCode": "1d0123",
+    "manager": {
+      "personUuid": "D632A927-2676-32BD-E927-4337438AE500",
+      "firstName": "Newton",
+      "lastName": "Ross",
+      "address": {
+        "street": "608-722 Massa Road",
+        "city": "Raufoss",
+        "state": "CA",
+        "zip": "84467"
+      },
+      "emails": [
+        "dolor.tempus@yahoo.edu"
+      ]
+    },
+    "address": {
+      "street": "9602 Smith Lane",
+      "city": "Central Islip",
+      "state": "NY",
+      "zip": "11722"
+    },
+    "sales": []
+  },
+  {
+    "storeCode": "10f50d",
+    "manager": {
+      "personUuid": "1EFDA221-18CE-7341-A6BD-089226D27A89",
+      "firstName": "Malone",
+      "lastName": "Nyssa",
+      "address": {
+        "street": "9934 Ornare",
+        "city": " Rd.",
+        "state": "Wiener Neustadt",
+        "zip": "MN"
+      },
+      "emails": [
+        "55377",
+        "risus@outlook.ca"
+      ]
+    },
+    "address": {
+      "street": "8352 Proctor Avenue",
+      "city": "Rockledge",
+      "state": "FL",
+      "zip": "32955"
+    },
+    "sales": []
+  },
+  {
+    "storeCode": "h4356d",
+    "manager": {
+      "personUuid": "8B89D7E1-42F8-EE29-9BC6-CC4ACA606610",
+      "firstName": "Prince",
+      "lastName": "Arsenio",
+      "address": {
+        "street": "398-6325 Proin Ave",
+        "city": "Manokwari",
+        "state": "CA",
+        "zip": "57836"
+      },
+      "emails": [
+        "quam@outlook.ca",
+        "iking@ooo.com",
+        "spetrikov@unl.edu"
+      ]
+    },
+    "address": {
+      "street": "5 Cypress Court",
+      "city": "Allen Park",
+      "state": "MI",
+      "zip": "48101"
+    },
+    "sales": []
+  },
+  {
+    "storeCode": "ulhd4k",
+    "manager": {
+      "personUuid": "F44248C5-6172-4D5A-C697-1725B32F81E0",
+      "firstName": "James",
+      "lastName": "Marshall",
+      "address": {
+        "street": " 9489 Ac",
+        "city": " Road",
+        "state": "Paita",
+        "zip": "CA"
+      },
+      "emails": [
+        "97661-333",
+        "id@aol.org"
+      ]
+    },
+    "address": {
+      "street": "82 Cedarwood Ave",
+      "city": "Lorain",
+      "state": "OH",
+      "zip": "44052"
+    },
+    "sales": []
+  },
+  {
+    "storeCode": "6o5ko9",
+    "manager": {
+      "personUuid": "4D34719E-CDE5-A8F3-7BDF-25C242B76290",
+      "firstName": "Cortez",
+      "lastName": "Rashad",
+      "address": {
+        "street": "5722 Sit Rd.",
+        "city": "Castanhal",
+        "state": "NY",
+        "zip": "27153"
+      },
+      "emails": [
+        "montes@google.edu"
+      ]
+    },
+    "address": {
+      "street": "97 Valley View Avenue",
+      "city": "Rolling Meadows",
+      "state": "IL",
+      "zip": "60008"
+    },
+    "sales": []
+  }
+]}

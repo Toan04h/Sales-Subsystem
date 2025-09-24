@@ -1,0 +1,62 @@
+<list>
+  <item>
+    <code>e001</code>
+    <type>P</type>
+    <name>iPhone 15 Pro Max</name>
+    <basePrice>1499.99</basePrice>
+  </item>
+  <item>
+    <code>e002</code>
+    <type>P</type>
+    <name>Samsung Galaxy A23S</name>
+    <basePrice>1299.99</basePrice>
+  </item>
+  <item>
+    <code>e003</code>
+    <type>P</type>
+    <name>iPhone 12 Screen Protector</name>
+    <basePrice>17.99</basePrice>
+  </item>
+  <item>
+    <code>s001</code>
+    <type>S</type>
+    <name>Screen Repair</name>
+    <basePrice>80.99</basePrice>
+  </item>
+  <item>
+    <code>s002</code>
+    <type>S</type>
+    <name>Battery Replacement</name>
+    <basePrice>209.99</basePrice>
+  </item>
+  <item>
+    <code>s003</code>
+    <type>S</type>
+    <name>Delivery</name>
+    <basePrice>39.99</basePrice>
+  </item>
+  <item>
+    <code>p001</code>
+    <type>D</type>
+    <name>5G Premium</name>
+    <basePrice>3.99</basePrice>
+  </item>
+  <item>
+    <code>p002</code>
+    <type>D</type>
+    <name>5G Basic</name>
+    <basePrice>1.49</basePrice>
+  </item>
+  <item>
+    <code>p003</code>
+    <type>V</type>
+    <name>Unlimited Daily</name>
+    <basePrice>29.99</basePrice>
+  </item>
+  <item>
+    <code>p004</code>
+    <type>V</type>
+    <name>Unlimited talk/300 Text</name>
+    <basePrice>49.99</basePrice>
+  </item>
+</list>

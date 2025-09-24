@@ -1,0 +1,64 @@
+{
+"stores": 
+[
+  {
+    "code": "e001",
+    "type": "P",
+    "name": "iPhone 15 Pro Max",
+    "basePrice": 1499.99
+  },
+  {
+    "code": "e002",
+    "type": "P",
+    "name": "Samsung Galaxy A23S",
+    "basePrice": 1299.99
+  },
+  {
+    "code": "e003",
+    "type": "P",
+    "name": "iPhone 12 Screen Protector",
+    "basePrice": 17.99
+  },
+  {
+    "code": "s001",
+    "type": "S",
+    "name": "Screen Repair",
+    "basePrice": 80.99
+  },
+  {
+    "code": "s002",
+    "type": "S",
+    "name": "Battery Replacement",
+    "basePrice": 209.99
+  },
+  {
+    "code": "s003",
+    "type": "S",
+    "name": "Delivery",
+    "basePrice": 39.99
+  },
+  {
+    "code": "p001",
+    "type": "D",
+    "name": "5G Premium",
+    "basePrice": 3.99
+  },
+  {
+    "code": "p002",
+    "type": "D",
+    "name": "5G Basic",
+    "basePrice": 1.49
+  },
+  {
+    "code": "p003",
+    "type": "V",
+    "name": "Unlimited Daily",
+    "basePrice": 29.99
+  },
+  {
+    "code": "p004",
+    "type": "V",
+    "name": "Unlimited talk/300 Text",
+    "basePrice": 49.99
+  }
+]}

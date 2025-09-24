@@ -1,0 +1,11 @@
+code,type,name,base cost
+e001,P,iPhone 15 Pro Max,1499.99
+e002,P,Samsung Galaxy A23S,1299.99
+e003,P,iPhone 12 Screen Protector,17.99
+s001,S,Screen Repair,80.99
+s002,S,Battery Replacement,209.99
+s003,S,Delivery,39.99
+p001,D,5G Premium,3.99
+p002,D,5G Basic,1.49
+p003,V,Unlimited Daily,29.99
+p004,V,Unlimited talk/300 Text,49.99
